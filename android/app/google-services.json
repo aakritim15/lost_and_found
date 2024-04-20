@@ -1,52 +1,26 @@
 {
   "project_info": {
-    "project_number": "869418140478",
-    "project_id": "lost-and-found-ef6a5",
-    "storage_bucket": "lost-and-found-ef6a5.appspot.com"
+    "project_number": "126438785534",
+    "project_id": "itemreunite-de3e2",
+    "storage_bucket": "itemreunite-de3e2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:869418140478:android:d8b1d4217f64be16bd226f",
+        "mobilesdk_app_id": "1:126438785534:android:086279e6569b64929e80af",
         "android_client_info": {
           "package_name": "com.example.lost_and_found"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "869418140478-fcu25fmgbkvlv4hbud3uajdu7hqav9d7.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.lost_and_found",
-            "certificate_hash": "bbf00cd9d5d795d503c029e0f0e3b5e74e045812"
-          }
-        },
-        {
-          "client_id": "869418140478-n39db3jal9afd537im2n1b1ma31q5uj6.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.lost_and_found",
-            "certificate_hash": "4170b4caa761e7eaccf9f2ff0817d2af7104c649"
-          }
-        },
-        {
-          "client_id": "869418140478-b0h2oi450l0gpudlddk43v29b24i092i.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyABlPE-IFfWRiJwCBRBL_bbMnQbXekV7x4"
+          "current_key": "AIzaSyBmwpm5AP8mIc8K1XaXnbp6j7d9m_aeSIE"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "869418140478-b0h2oi450l0gpudlddk43v29b24i092i.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
